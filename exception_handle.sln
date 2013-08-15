@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exception_handle", "exception_handle\exception_handle.vcxproj", "{EB6A8C66-5C32-4E93-861A-22664D353BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug-DLL|Win32 = Debug-DLL|Win32
+		Release|Win32 = Release|Win32
+		Release-DLL|Win32 = Release-DLL|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Debug|Win32.Build.0 = Debug|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Debug-DLL|Win32.ActiveCfg = Debug-DLL|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Debug-DLL|Win32.Build.0 = Debug-DLL|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Release|Win32.ActiveCfg = Release|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Release|Win32.Build.0 = Release|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Release-DLL|Win32.ActiveCfg = Release-DLL|Win32
+		{EB6A8C66-5C32-4E93-861A-22664D353BBC}.Release-DLL|Win32.Build.0 = Release-DLL|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
